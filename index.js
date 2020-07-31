@@ -9,7 +9,7 @@ function square(number)
     return number*number;
 
 }
-console.log(square(16));
+console.log(square(25));
 
 
 
